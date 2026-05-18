@@ -1,7 +1,5 @@
 streamlit
 pandas
 numpy
-pandas-ta
-arch
 plotly
 streamlit-autorefresh
