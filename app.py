@@ -7,8 +7,6 @@ Dependencies: pip install streamlit pandas numpy pandas-ta arch plotly streamlit
 import streamlit as st
 import pandas as pd
 import numpy as np
-import pandas_ta as ta
-from arch import arch_model
 import plotly.graph_objects as go
 import datetime
 import time
